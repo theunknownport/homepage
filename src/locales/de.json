@@ -1,0 +1,63 @@
+{
+  "hero": {
+    "eyebrow": "Kreatives Portfolio",
+    "title": "Ich vereine Film, Bild und digitale Systeme.",
+    "subtitle": "Von filmischer Produktion bis DevOps-Engineering verbinde ich kreatives Handwerk mit technischer Präzision.",
+    "role": "DevOps-Ingenieur & Medienmacher",
+    "scrollHint": "Scrollen Sie langsam durch vier Aussagen",
+    "panels": {
+      "statementOne": {
+        "title": "Aussage 1",
+        "copy": "Eine cineastische Landschaft, die in jedem Bild Schwung aufnimmt."
+      },
+      "statementTwo": {
+        "title": "Aussage 2",
+        "copy": "Eine geschichtete visuelle Erfahrung, die kreative Produktion und technische Präzision verbindet."
+      },
+      "statementThree": {
+        "title": "Aussage 3",
+        "copy": "Eine inszenierte Bewegungsatmosphäre, in der Bild, Sound und Systeme zusammenfließen."
+      },
+      "statementFour": {
+        "title": "Eine große Aussage — Finn Barbieri",
+        "copy": "Die Geschichte geht auf der nächsten Seite weiter, wo jede Produktion, Fotografie und Bereitstellung zusammenkommt."
+      }
+    }
+  },
+  "introduction": {
+    "heading": "Kreative Arbeit trifft technische Exzellenz",
+    "copy": "Ich präsentiere Filmproduktion, Fotografie, Musikproduktion und DevOps-Engineering in einem ausdrucksstarken Portfolio. Die Seite ist zweisprachig, erzählerisch und gestaltet, um cineastisch und funktional zugleich zu wirken."
+  },
+  "works": {
+    "heading": "Ausgewählte Projekte"
+  },
+  "movieProduction": {
+    "title": "Filmproduktion",
+    "description": "Kinematografisches Storytelling, Produktionsplanung und Postproduktion mit einem visuellen Fokus."
+  },
+  "photography": {
+    "title": "Fotografie",
+    "description": "Editorial-Bilder, Porträts und atmosphärische Stillarbeiten, geschaffen für Stimmung und Bewegung."
+  },
+  "musicProduction": {
+    "title": "Musikproduktion",
+    "description": "Sounddesign, Komposition und Produktions-Polish für Musik, Trailer und audiovisuelle Projekte."
+  },
+  "career": {
+    "heading": "Berufliche DevOps-Stationen",
+    "copy": "Erfahren in Cloud-Infrastruktur, Automatisierung, CI/CD und resilientem Systemdesign. Ich bringe Engineering-Standards und Produktionszuverlässigkeit in kreative Teams und technische Projekte.",
+    "badges": {
+      "cloud": "Cloud-Architektur",
+      "devops": "DevOps-Engineering",
+      "infrastructure": "Infrastructure as Code"
+    }
+  },
+  "callout": {
+    "heading": "Lassen Sie uns etwas Beeindruckendes schaffen",
+    "copy": "Ob Produktionsreel, visuelles Storytelling, Musik-Engineering oder solide technische Grundlage – ich bin offen für Zusammenarbeit.",
+    "button": "Kontakt aufnehmen"
+  },
+  "footer": {
+    "copy": "© 2026 Finn Barbieri — Kreative Produktion & DevOps"
+  }
+}
