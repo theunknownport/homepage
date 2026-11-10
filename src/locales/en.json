@@ -1,63 +1,303 @@
 {
+  "nav": {
+    "home": "Home",
+    "photo": "Photo",
+    "video": "Video",
+    "audio": "Audio",
+    "computerScience": "Computer Science"
+  },
   "hero": {
-    "eyebrow": "Creative portfolio",
-    "title": "I build film, imagery and digital systems.",
-    "subtitle": "From cinematic production to developer operations, I combine creative craft with technical engineering.",
-    "role": "DevOps engineer & media creator",
-    "scrollHint": "Scroll slowly through four statements",
     "panels": {
       "statementOne": {
-        "title": "Statement 1",
-        "copy": "A cinematic landscape that carries momentum across every frame."
+        "title": "Telling Visual Stories",
+        "copy": "...was my creative language since childhood."
       },
       "statementTwo": {
-        "title": "Statement 2",
-        "copy": "A layered visual experience blending creative production and technical precision."
+        "title": "Realizing Creative Visions",
+        "copy": "...is my passion across film, photography, music and computers."
       },
       "statementThree": {
-        "title": "Statement 3",
-        "copy": "A crafted motion atmosphere where image, sound and systems feel connected."
+        "title": "Trying to fit everything under one hat",
+        "copy": "...is currently my biggest challenge and opportunity. I want to bring the same care to my technical work as I do to my creative work, and vice versa."
       },
       "statementFour": {
-        "title": "One big statement — Finn Barbieri",
-        "copy": "The story continues on the next page, where every production, photograph and deployment comes together."
+        "title": "Finn Barbieri",
+        "copy": "Explore my creative and technical work on the pages below."
       }
     }
   },
-  "introduction": {
-    "heading": "Creative work meets technical craft",
-    "copy": "I present movie production, still photography, music production and DevOps engineering in one expressive portfolio. The site is bilingual, polished for storytelling, and built to feel cinematic while staying functional."
-  },
-  "works": {
-    "heading": "Featured work"
-  },
-  "movieProduction": {
-    "title": "Movie production",
-    "description": "Cinematic storytelling, production planning and post-production workflows with a visual-first approach."
-  },
-  "photography": {
-    "title": "Photography",
-    "description": "Editorial imagery, portraits and atmospheric still work crafted for mood and motion."
-  },
-  "musicProduction": {
-    "title": "Music production",
-    "description": "Sound design, composition and production polish for music, trailers and audiovisual projects."
-  },
-  "career": {
-    "heading": "Professional DevOps journey",
-    "copy": "Experienced in cloud infrastructure, automation, CI/CD and resilient system design. I bring engineering standards and production reliability to creative teams and technical projects.",
-    "badges": {
-      "cloud": "Cloud architecture",
-      "devops": "DevOps engineering",
-      "infrastructure": "Infrastructure as code"
-    }
-  },
-  "callout": {
-    "heading": "Let’s create something compelling together",
-    "copy": "Whether you want a production reel, visual storytelling, music engineering or a solid tech foundation, I’m available for collaboration.",
-    "button": "Contact me"
-  },
   "footer": {
-    "copy": "© 2026 Finn Barbieri — Creative production & DevOps"
+    "copy": "© All Rights Reserved | Finn Barbieri",
+    "imprint": "Imprint",
+    "privacy": "Privacy"
+  },
+  "contact": {
+    "button": "Get in Touch"
+  },
+  "video": {
+    "eyebrow": "Portfolio | Video",
+    "h1a": "Moving",
+    "h1b": "pictures.",
+    "subtitle": "My filmmaker career started as a small kid with small projects and continued with a YouTube channel. Switch to the present, and I'm realizing projects for my local association, friends, companies and myself.",
+    "labels": {
+      "shortForm": "Short Form",
+      "storytelling": "Storytelling",
+      "selectedWork": "Selected Work",
+      "origins": "Origins"
+    },
+    "reelsHeading": "Reels & Stories",
+    "reels": {
+      "r1": "2025 Year in Review | Recap",
+      "r2": "Kantifaescht | Flashback",
+      "r3": "10 Jahre WERKK | Jubiläum"
+    },
+    "projectsHeading": "Projects",
+    "caseStudiesHeading": "Case Studies",
+    "films": {
+      "f1": "Trailer for local association",
+      "f2": "Short video content for my party label and private",
+      "f3": "Short video content for my party label and private",
+      "f4": "Tell (Op.395) music video for artists Tornkid & GEI5T",
+      "f5": "Rebranding trailer for fashion brand Chasedvision",
+      "f6": "Music video for rap artist J Demon",
+      "f7": "Music video for rap artist J Demon",
+      "f8": "Short-film/trailer for Sxclout (now Chasedvision) fashion brand drop",
+      "f9": "Edit for Sxclout (now Chasedvision) fashion brand drop",
+      "f10": "Short film for promoting my track",
+      "f11": "Matura work 2023",
+      "f12": "Work for local association",
+      "f13": "Work for local association"
+    },
+    "projects": {
+      "1": {
+        "description": "Visual identity campaign and short-form content for a Swiss streetwear brand relaunch."
+      },
+      "2": {
+        "title": "Jublasurium | Daily Recaps",
+        "description": "On-site content team for the 2025 national Jubla Pentecost camp, producing daily Instagram recap reels."
+      }
+    },
+    "howItStarted": "How It All Started",
+    "newspaperCaption": "13 year old Finn posing for a local newspaper",
+    "newspaperText": "After winning my first award for a short film I made in 2014, a local newspaper wrote an article about me. More info:",
+    "awardTitle": "Award winning short film from 2014",
+    "awardText1": "My first big project which I won a prize for was a short film called",
+    "awardText2": " I did in 2014 at 9 years old. With the film I won the gold award in my age category of the \"Bugnplay Migros Kulturprozent Award 2014\".",
+    "btsTitle": "Behind the scenes of \"Der fressende Müllroboter\"",
+    "btsText": "Behind the scenes of my first ever short film."
+  },
+  "common": {
+    "credits": "Camera: Finn Barbieri · Edit: Finn Barbieri",
+    "categories": {
+      "documentary": "Documentary",
+      "musicVideo": "Music Video",
+      "fashion": "Fashion",
+      "trailer": "Trailer",
+      "event": "Event",
+      "shortFilm": "Short Film",
+      "content": "Content"
+    },
+    "viewCaseStudy": "View case study →",
+    "collab": {
+      "heading": "Let's Collab!",
+      "copy": "Interested in working together? Leave me a message."
+    },
+    "backToVideo": "← Back to Video",
+    "labels": {
+      "process": "Process",
+      "result": "Result",
+      "stills": "Stills"
+    },
+    "photoCredit": "Photo: {{name}}",
+    "legal": "Legal",
+    "toggleTheme": "Toggle theme",
+    "pageNavigation": "Page navigation"
+  },
+  "audio": {
+    "services": {
+      "s1": {
+        "title": "Mastering",
+        "description": "I just recently picked up mastering to give my own tracks a final polish, but I also did some small projects for other artists."
+      },
+      "s2": {
+        "title": "Mixing",
+        "description": "I personally don't sing, but my friends do! So I got the chance to collect some experience mixing vocals and beats."
+      },
+      "s3": {
+        "title": "Producing",
+        "description": "During the last two years, I've built myself a little creative space that I use to produce music for myself, friends and clients."
+      },
+      "s4": {
+        "title": "Recording",
+        "description": "When friends or I had to record something, I used my home studio and DAW to track all the needed vocals."
+      }
+    },
+    "eyebrow": "Portfolio | Audio",
+    "h1a": "Audio",
+    "h1b": "Adventures.",
+    "subtitle": "Music production, mixing & mastering. I've searched for a hobby not dependent on any jobs or events where I can fulfill my creative needs. Music production did exactly that.",
+    "labels": {
+      "background": "Background",
+      "whatIDo": "What I Do",
+      "releases": "Releases",
+      "collaboration": "Collaboration"
+    },
+    "balanceHeading": "Finding the perfect Work-Life Balance",
+    "backThen": {
+      "label": "Back Then",
+      "caption": "Playing keys at school, 2014"
+    },
+    "now": {
+      "label": "Now",
+      "caption": "Home studio: FL Studio + monitors"
+    },
+    "balance1": "While working in computer science and going to diploma school, I've searched for a hobby not dependent on any jobs or events where I can fulfill my creative needs and get relaxation for a correct work-life balance. Music production did exactly that, and I've realized some projects for myself and friends.",
+    "balance2": "Like filming, making music wasn't a completely new topic to me, rather, a \"coming back\".",
+    "servicesHeading1": "Music production,",
+    "servicesHeading2": "Mixing, Mastering.",
+    "checkOut": "Check Out My Music",
+    "bookStudio": "Book Studio Time"
+  },
+  "cs": {
+    "skills": {
+      "sk1": {
+        "title": "Programming languages",
+        "description": "Python, Go, Bash, PowerShell are programming languages I've worked with during my career in computer science."
+      },
+      "sk2": {
+        "title": "DevOps",
+        "description": "Ansible, Tanzu, Kubernetes, CI/CD, Infrastructure as Code are tools which I've been using more and more lately because my interest and work regarding DevOps is rising constantly."
+      },
+      "sk3": {
+        "title": "Project methods and management",
+        "description": "IPERKA, Hermes, ITIL are methods which I've learned and used during my apprenticeship."
+      },
+      "sk4": {
+        "title": "Infrastructure, System administration",
+        "description": "VMware vSphere, Linux Server Management, Windows Server Management are skills and products I've learned to use and work with regularly during my apprenticeship."
+      },
+      "sk5": {
+        "title": "Tools and miscellaneous skills",
+        "description": "Git, TCP-IP, IT Support are categories I'm dealing with on a daily basis."
+      }
+    },
+    "eyebrow": "Portfolio | Computer Science",
+    "h1a": "Computer",
+    "h1b": "Science.",
+    "subtitle": "I have been passionate about computers and computer science since a young age. With my hobbies of video editing, building computers and programming, I taught myself a lot of things early on.",
+    "labels": {
+      "background": "Background",
+      "skills": "Skills",
+      "projects": "Projects",
+      "connect": "Connect"
+    },
+    "fascination1": "The Fascination",
+    "fascination2": "of Computers",
+    "bg1": "I have been passionate about computers and computer science since a young age. With my hobbies of video editing, building computers and programming, I taught myself a lot of things early on. When I was nine, I was allowed to build my first computer.",
+    "bg2": "It was clear to me that I wanted to do an apprenticeship as a computer scientist after compulsory school. Thus, since 2020, I have been practicing as a computer scientist in systems engineering at a cybersecurity company and have turned my hobby into my profession.",
+    "bg3": "My enthusiasm and commitment for computer science are unbroken, and I am always happy to learn and apply new things.",
+    "facts": {
+      "heading": "Quick Facts",
+      "role": "Role",
+      "roleValue": "Computer Scientist, Systems Engineering",
+      "since": "Since",
+      "industry": "Industry",
+      "focus": "Focus",
+      "focusValue": "Infrastructure, DevOps, Security"
+    },
+    "skillsHeading1": "Skills &",
+    "skillsHeading2": "Interests.",
+    "projectsHeading": "Projects.",
+    "heycloud": {
+      "meta": "2020 | Personal Project",
+      "p1": "For improving my coding skills, I've started a project named heycloud in 2020. Heycloud should become a public cloud using Proxmox as a virtualization backend. The frontend is written in React.js while the backend is written in Go.",
+      "p2": "I've come as far as implementing features such as:",
+      "features": {
+        "vps": "VPS creation",
+        "login": "User login and registering",
+        "billing": "Billing",
+        "dashboard": "Dashboard",
+        "console": "Remote console access"
+      },
+      "p3": "The project is unfinished but still worth the experience I've gathered while doing it.",
+      "request": "Request Access to the Source Code"
+    },
+    "story": {
+      "heading": "My Story in Time.",
+      "copy": "When searching for an apprenticeship, I put together a portfolio showcase showing off my latest work, including system administration projects I worked on before graduating."
+    },
+    "email": "Email"
+  },
+  "sxclout": {
+    "services": {
+      "s1": {
+        "title": "Pre-production",
+        "description": "Planning a project is an essential part when realizing a short film / commercial / trailer. I took over this step by taking the base story and idea of the client and writing a screenplay, shot list and more around it."
+      },
+      "s2": {
+        "title": "Film Production",
+        "description": "On the first day of the project the filming of the trailer/short film was done. The production took roughly 6 hours and was rather on a budget in regards of time and money. The base idea for the trailer and short film came from the client. I was responsible for all the cinematography and lighting used to produce the piece."
+      },
+      "s3": {
+        "title": "Post-production",
+        "description": "After filming and shooting stills, the post-production phase began. It consisted of assembling a rough edit first, which then was discussed with the client to implement further changes. After effects, color grading and sound design were complete, further revisions were created. I always showed the customer the state of the project and implemented his feedback to improve the final product as much as possible. I also composed a small soundtrack to fit the film's mood and edited the stills I shot on the second day."
+      },
+      "s4": {
+        "title": "Photo Shooting",
+        "description": "On the second day of the project, a photo shooting was done. Those pictures were then used for promotion and on the website."
+      }
+    },
+    "eyebrow": "Case Study | Fashion",
+    "h1b": "Vision Collection",
+    "intro1": "For a local clothing company called sxclout I got the honor to realize a project consisting of a short film/trailer and a photo shooting.",
+    "intro2": "The project was rather budget-like in terms of money, time and equipment.",
+    "intro3": "I used the project to further improve my skills in realizing film and photography projects as well as improving customer relation, planning and logistics.",
+    "servicesHeading": "Services provided in this project",
+    "finalFilm": "Final Commercial / Short-Film Trailer",
+    "finalStills": "Final Stills",
+    "stillAlt": "Sxclout Vision Collection still"
+  },
+  "jublasurium": {
+    "bts": {
+      "b1": "Logging footage and notes between sessions.",
+      "b2": "Camera rig ready for the next take.",
+      "b3": "Filming amid thousands of participants.",
+      "b4": "Always ready to capture the next moment.",
+      "b5": "With the content team between shoots."
+    },
+    "day": "Day {{n}}",
+    "recapTitle": "Recap | Day {{n}}",
+    "eyebrow": "Case Study | Content Team",
+    "h1b": "Daily Recaps",
+    "intro1": "Jublasurium was the 2025 national Pentecost camp of Jungwacht Blauring, Switzerland's largest Jubla youth gathering, bringing together thousands of participants from across the country.",
+    "intro2": "I was part of the on-site content team, responsible for producing daily Instagram reels that recapped each day of camp life for everyone following along at home: shooting, editing and publishing a new recap before the next day began.",
+    "onSite": "On Site",
+    "btsHeading": "Behind the Scenes"
+  },
+  "photo": {
+    "alts": {
+      "artist": "Artist Portrait",
+      "fashion": "Chased Vision Fashion Shooting",
+      "london": "Analog Series London",
+      "club": "Club Show Shooting",
+      "association": "Photography For Local Association",
+      "studio": "Creative Captures of studio session"
+    },
+    "eyebrow": "Portfolio | Photography",
+    "h1a": "Capturing",
+    "h1b": "moments.",
+    "subtitle": "I got into the world of images by making videos. But a couple of years ago, I picked up photography and do it on a regular basis for my local association and/or jobs.",
+    "selectedWork": "Selected work",
+    "projects": "Projects",
+    "projectDescriptions": {
+      "1": "On the second day of the project for sxclout, a photo shooting was done. Those pictures were then used for promotion and on the website."
+    },
+    "close": "Close",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "imprint": {
+    "country": "Switzerland",
+    "email": "Email"
   }
 }

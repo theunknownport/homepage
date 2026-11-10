@@ -3,7 +3,15 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Finn Barbieri Portfolio</title>
+    <title>Finn Barbieri</title>
+    <meta name="description" content="My name is Finn Barbieri, and I'm a creative mind working in computer science. In my spare time, I love to shoot photos and videos and produce music. Find a portfolio of my best work and a description of all my skills and projects on my homepage." />
+    <script>
+      (function () {
+        var saved = localStorage.getItem('theme');
+        var preferred = window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', saved || preferred);
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>

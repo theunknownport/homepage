@@ -1,63 +1,303 @@
 {
+  "nav": {
+    "home": "Home",
+    "photo": "Foto",
+    "video": "Video",
+    "audio": "Audio",
+    "computerScience": "Informatik"
+  },
   "hero": {
-    "eyebrow": "Kreatives Portfolio",
-    "title": "Ich vereine Film, Bild und digitale Systeme.",
-    "subtitle": "Von filmischer Produktion bis DevOps-Engineering verbinde ich kreatives Handwerk mit technischer Präzision.",
-    "role": "DevOps-Ingenieur & Medienmacher",
-    "scrollHint": "Scrollen Sie langsam durch vier Aussagen",
     "panels": {
       "statementOne": {
-        "title": "Aussage 1",
-        "copy": "Eine cineastische Landschaft, die in jedem Bild Schwung aufnimmt."
+        "title": "Visuelle Geschichten erzählen",
+        "copy": "...ist seit meiner Kindheit meine kreative Sprache."
       },
       "statementTwo": {
-        "title": "Aussage 2",
-        "copy": "Eine geschichtete visuelle Erfahrung, die kreative Produktion und technische Präzision verbindet."
+        "title": "Kreative Visionen umsetzen",
+        "copy": "...ist meine Leidenschaft in Film, Fotografie, Musik und Informatik."
       },
       "statementThree": {
-        "title": "Aussage 3",
-        "copy": "Eine inszenierte Bewegungsatmosphäre, in der Bild, Sound und Systeme zusammenfließen."
+        "title": "Alles unter einen Hut bringen",
+        "copy": "...ist momentan meine grösste Herausforderung und Chance. Ich möchte meiner technischen Arbeit dieselbe Sorgfalt widmen wie meiner kreativen, und umgekehrt."
       },
       "statementFour": {
-        "title": "Eine große Aussage — Finn Barbieri",
-        "copy": "Die Geschichte geht auf der nächsten Seite weiter, wo jede Produktion, Fotografie und Bereitstellung zusammenkommt."
+        "title": "Finn Barbieri",
+        "copy": "Entdecke meine kreativen und technischen Arbeiten auf den folgenden Seiten."
       }
     }
   },
-  "introduction": {
-    "heading": "Kreative Arbeit trifft technische Exzellenz",
-    "copy": "Ich präsentiere Filmproduktion, Fotografie, Musikproduktion und DevOps-Engineering in einem ausdrucksstarken Portfolio. Die Seite ist zweisprachig, erzählerisch und gestaltet, um cineastisch und funktional zugleich zu wirken."
-  },
-  "works": {
-    "heading": "Ausgewählte Projekte"
-  },
-  "movieProduction": {
-    "title": "Filmproduktion",
-    "description": "Kinematografisches Storytelling, Produktionsplanung und Postproduktion mit einem visuellen Fokus."
-  },
-  "photography": {
-    "title": "Fotografie",
-    "description": "Editorial-Bilder, Porträts und atmosphärische Stillarbeiten, geschaffen für Stimmung und Bewegung."
-  },
-  "musicProduction": {
-    "title": "Musikproduktion",
-    "description": "Sounddesign, Komposition und Produktions-Polish für Musik, Trailer und audiovisuelle Projekte."
-  },
-  "career": {
-    "heading": "Berufliche DevOps-Stationen",
-    "copy": "Erfahren in Cloud-Infrastruktur, Automatisierung, CI/CD und resilientem Systemdesign. Ich bringe Engineering-Standards und Produktionszuverlässigkeit in kreative Teams und technische Projekte.",
-    "badges": {
-      "cloud": "Cloud-Architektur",
-      "devops": "DevOps-Engineering",
-      "infrastructure": "Infrastructure as Code"
-    }
-  },
-  "callout": {
-    "heading": "Lassen Sie uns etwas Beeindruckendes schaffen",
-    "copy": "Ob Produktionsreel, visuelles Storytelling, Musik-Engineering oder solide technische Grundlage – ich bin offen für Zusammenarbeit.",
-    "button": "Kontakt aufnehmen"
-  },
   "footer": {
-    "copy": "© 2026 Finn Barbieri — Kreative Produktion & DevOps"
+    "copy": "© Alle Rechte vorbehalten | Finn Barbieri",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz"
+  },
+  "contact": {
+    "button": "Kontaktieren"
+  },
+  "video": {
+    "eyebrow": "Portfolio | Video",
+    "h1a": "Bewegte",
+    "h1b": "Bilder.",
+    "subtitle": "Meine Filmemacherkarriere begann als kleines Kind mit kleinen Projekten und setzte sich mit einem YouTube-Kanal fort. Heute arbeite ich an Projekten für meinen lokalen Verein, Freunde, Unternehmen und mich selbst.",
+    "labels": {
+      "shortForm": "Kurzformat",
+      "storytelling": "Storytelling",
+      "selectedWork": "Ausgewählte Arbeiten",
+      "origins": "Anfänge"
+    },
+    "reelsHeading": "Reels & Stories",
+    "reels": {
+      "r1": "Jahresrückblick 2025 | Recap",
+      "r2": "Kantifaescht | Flashback",
+      "r3": "10 Jahre WERKK | Jubiläum"
+    },
+    "projectsHeading": "Projekte",
+    "caseStudiesHeading": "Fallstudien",
+    "films": {
+      "f1": "Trailer für den örtlichen Verein",
+      "f2": "Kurze Videoinhalte für mein Party-Label und privat",
+      "f3": "Kurze Videoinhalte für mein Party-Label und privat",
+      "f4": "Musikvideo zu Tell (Op.395) für die Künstler Tornkid & GEI5T",
+      "f5": "Rebranding-Trailer für die Modemarke Chasedvision",
+      "f6": "Musikvideo für Rapkünstler J Demon",
+      "f7": "Musikvideo für Rapkünstler J Demon",
+      "f8": "Kurzfilm/Trailer für die Veröffentlichung einer Kollektion für die Streetwear Brand Sxclout (heute Chasedvision)",
+      "f9": "Edit für die Veröffentlichung einer Kollektion der Streetwear Brand Sxclout (heute Chasedvision)",
+      "f10": "Kurzfilm zur Promotion meines Tracks",
+      "f11": "Matura-Arbeit 2023",
+      "f12": "Arbeit für örtlichen Verein",
+      "f13": "Arbeit für örtlichen Verein"
+    },
+    "projects": {
+      "1": {
+        "description": "Visuelle Identitätskampagne und Kurzformat-Content für den Relaunch einer Schweizer Streetwear-Marke."
+      },
+      "2": {
+        "title": "Jublasurium | Tägliche Recaps",
+        "description": "Teil des Content-Teams vor Ort am nationalen Jubla-Pfingstlager 2025, mit täglichen Instagram-Recap-Reels."
+      }
+    },
+    "howItStarted": "Wie alles begann",
+    "newspaperCaption": "13-jähriger Finn posiert für eine lokale Zeitung",
+    "newspaperText": "Nachdem ich im Jahr 2014 meinen ersten Preis für einen Kurzfilm gewonnen hatte, schrieb eine lokale Zeitung einen Artikel über mich. Weitere Informationen:",
+    "awardTitle": "Preisgekrönter Kurzfilm aus dem Jahr 2014",
+    "awardText1": "Mein erstes grosses Projekt, für das ich einen Preis gewonnen habe, war ein Kurzfilm namens",
+    "awardText2": ", den ich im Jahr 2014 im Alter von 9 Jahren gemacht habe. Mit diesem Film habe ich den Goldpreis in meiner Alterskategorie des \"Bugnplay Migros Kulturprozent Award 2014\" gewonnen.",
+    "btsTitle": "Hinter den Kulissen von \"Der fressende Müllroboter\"",
+    "btsText": "Hinter den Kulissen meines allerersten Kurzfilms."
+  },
+  "common": {
+    "credits": "Kamera: Finn Barbieri · Schnitt: Finn Barbieri",
+    "categories": {
+      "documentary": "Dokumentation",
+      "musicVideo": "Musikvideo",
+      "fashion": "Mode",
+      "trailer": "Trailer",
+      "event": "Event",
+      "shortFilm": "Kurzfilm",
+      "content": "Content"
+    },
+    "viewCaseStudy": "Zur Fallstudie →",
+    "collab": {
+      "heading": "Lass uns zusammenarbeiten!",
+      "copy": "Interessiert an einer Zusammenarbeit? Hinterlasse mir eine Nachricht."
+    },
+    "backToVideo": "← Zurück zu Video",
+    "labels": {
+      "process": "Prozess",
+      "result": "Ergebnis",
+      "stills": "Bilder"
+    },
+    "photoCredit": "Foto: {{name}}",
+    "legal": "Rechtliches",
+    "toggleTheme": "Farbschema wechseln",
+    "pageNavigation": "Seitennavigation"
+  },
+  "audio": {
+    "services": {
+      "s1": {
+        "title": "Mastering",
+        "description": "Ich habe erst kürzlich das Mastern gelernt, um meinen eigenen Tracks den letzten Feinschliff zu geben, aber ich durfte auch schon einige kleine Projekte für andere Künstler umsetzen."
+      },
+      "s2": {
+        "title": "Mixing",
+        "description": "Ich persönlich singe nicht, aber meine Freunde tun es! So hatte ich die Chance, etwas Erfahrung im Abmischen von Gesang und Beats zu sammeln."
+      },
+      "s3": {
+        "title": "Musikproduktion",
+        "description": "In den letzten zwei Jahren habe ich mir einen kleinen kreativen Raum eingerichtet, den ich nutze, um Musik für mich, Freunde und Kunden zu produzieren."
+      },
+      "s4": {
+        "title": "Aufnahme",
+        "description": "Wenn Freunde oder ich etwas aufnehmen mussten, habe ich mein Heimstudio und DAW benutzt, um alle benötigten Gesangsspuren einzuspielen."
+      }
+    },
+    "eyebrow": "Portfolio | Audio",
+    "h1a": "Musik",
+    "h1b": "Abenteuer.",
+    "subtitle": "Musikproduktion, Mixing & Mastering. Ich suchte nach einem Hobby, das nicht von Jobs oder Aufträgen abhängt, wo ich meine kreativen Bedürfnisse erfüllen kann. Die Musikproduktion hat genau das getan.",
+    "labels": {
+      "background": "Hintergrund",
+      "whatIDo": "Was ich mache",
+      "releases": "Releases",
+      "collaboration": "Zusammenarbeit"
+    },
+    "balanceHeading": "Die perfekte Work-Life-Balance finden",
+    "backThen": {
+      "label": "Damals",
+      "caption": "Keyboard spielen in der Schule, 2014"
+    },
+    "now": {
+      "label": "Jetzt",
+      "caption": "Heimstudio: FL Studio + Monitore"
+    },
+    "balance1": "Während ich in der Informatik arbeite und zur Berufsschule gehe, habe ich nach einem Hobby gesucht, das nicht von Arbeitsplätzen oder Veranstaltungen abhängig ist, wo ich meine kreativen Bedürfnisse befriedigen und eine gute Work-Life-Balance halten kann. Die Musikproduktion hat genau das getan, und ich habe einige Projekte für mich und Freunde realisiert.",
+    "balance2": "Wie das Filmen war auch die Musik keine völlig neue Thematik für mich. Eher ein 'wieder anfangen'.",
+    "servicesHeading1": "Musikproduktion,",
+    "servicesHeading2": "Mixing, Mastering.",
+    "checkOut": "Hör dir meine Musik an",
+    "bookStudio": "Studiozeit buchen"
+  },
+  "cs": {
+    "skills": {
+      "sk1": {
+        "title": "Programmiersprachen",
+        "description": "Python, Go, Bash und PowerShell sind Programmiersprachen, mit denen ich während meiner Karriere in der Informatik gearbeitet habe."
+      },
+      "sk2": {
+        "title": "DevOps",
+        "description": "Ansible, Tanzu, Kubernetes, CI/CD, Infrastructure as Code sind Werkzeuge, die ich in letzter Zeit immer häufiger verwende, da mein Interesse und meine Arbeit im Bereich DevOps ständig zunimmt."
+      },
+      "sk3": {
+        "title": "Projektmethoden und -management",
+        "description": "IPERKA, Hermes und ITIL sind Methoden, die ich während meiner Ausbildung gelernt und genutzt habe."
+      },
+      "sk4": {
+        "title": "Infrastruktur, Systemadministration",
+        "description": "VMware vSphere, Linux Server Management, Windows Server Management sind Fähigkeiten und Produkte, die ich während meiner Ausbildung regelmässig eingesetzt und benutzt habe."
+      },
+      "sk5": {
+        "title": "Werkzeuge und diverse Fähigkeiten",
+        "description": "Git, TCP-IP und IT-Support sind Themen, mit denen ich täglich zu tun habe."
+      }
+    },
+    "eyebrow": "Portfolio | Informatik",
+    "h1a": "Informatik.",
+    "h1b": "",
+    "subtitle": "Ich bin seit meiner Kindheit leidenschaftlich an Computern und Informatik interessiert. Mit meinen Hobbys Video-Editing, Computer-Bau und Programmierung habe ich mir früh vieles selbst beigebracht.",
+    "labels": {
+      "background": "Hintergrund",
+      "skills": "Fähigkeiten",
+      "projects": "Projekte",
+      "connect": "Kontakt"
+    },
+    "fascination1": "Die Faszination",
+    "fascination2": "Computer",
+    "bg1": "Ich war seit jungen Jahren begeistert von Computer und Informatik. Mit meinen Hobbys wie Videobearbeitung, Computerbau und Programmierung habe ich mir frühzeitig viele Dinge selbst beigebracht. Als ich neun Jahre alt war, durfte ich meinen ersten Computer bauen.",
+    "bg2": "Mir war klar, dass ich nach der Schule eine Lehre als Informatiker machen wollte. Seit 2020 absolviere ich daher eine Ausbildung zum Informatiker in Systemtechnik bei einem Cybersecurity-Unternehmen und habe mein Hobby zum Beruf gemacht.",
+    "bg3": "Meine Begeisterung und mein Engagement für die Informatik sind ungebrochen und ich bin immer glücklich, Neues zu lernen und anzuwenden.",
+    "facts": {
+      "heading": "Kurz & knapp",
+      "role": "Rolle",
+      "roleValue": "Informatiker, Systemtechnik",
+      "since": "Seit",
+      "industry": "Branche",
+      "focus": "Fokus",
+      "focusValue": "Infrastruktur, DevOps, Security"
+    },
+    "skillsHeading1": "Fähigkeiten &",
+    "skillsHeading2": "Interessen.",
+    "projectsHeading": "Projekte.",
+    "heycloud": {
+      "meta": "2020 | Persönliches Projekt",
+      "p1": "Um meine Programmierkenntnisse zu verbessern, habe ich im Jahr 2020 ein Projekt namens heycloud gestartet. Heycloud soll eine öffentliche Cloud werden, die Proxmox als Virtualisierungs-Backend verwendet. Das Frontend ist in React.js geschrieben, während das Backend in Go geschrieben ist.",
+      "p2": "Ich bin so weit gekommen, Funktionen zu implementieren wie:",
+      "features": {
+        "vps": "VPS-Erstellung",
+        "login": "Benutzeranmeldung und -registrierung",
+        "billing": "Abrechnung",
+        "dashboard": "Dashboard",
+        "console": "Remote-Konsolenzugriff"
+      },
+      "p3": "Das Projekt ist unvollendet, aber immer noch die Erfahrung wert, die ich dabei gesammelt habe.",
+      "request": "Zugriff auf den Quellcode anfordern"
+    },
+    "story": {
+      "heading": "Meine Geschichte.",
+      "copy": "Als ich nach einer Lehrstelle gesucht habe, habe ich ein Portfolio-Showcase zusammengestellt und meine neuesten Arbeiten präsentiert, einschliesslich der Systemadministrationsprojekte, an denen ich vor dem Abschluss gearbeitet habe."
+    },
+    "email": "E-Mail"
+  },
+  "sxclout": {
+    "services": {
+      "s1": {
+        "title": "Vorproduktion",
+        "description": "Die Planung eines Projekts ist ein wesentlicher Bestandteil bei der Realisierung eines Kurzfilms / einer Werbung / eines Trailers. Ich habe diesen Schritt übernommen, indem ich die Grundgeschichte und Idee des Kunden als Basis nahm und ein Drehbuch, eine Shotliste und weiteres dazu geschrieben habe."
+      },
+      "s2": {
+        "title": "Filmproduktion",
+        "description": "Am ersten Tag des Projekts wurde das Filmen des Trailers/Kurzfilms durchgeführt. Die Produktion dauerte ungefähr 6 Stunden und war in Bezug auf Zeit und Geld eher budgetmässig. Die Grundidee für den Trailer und den Kurzfilm stammte vom Kunden. Ich war verantwortlich für die gesamte Kinematographie und Beleuchtung, die zur Produktion des Werkes führten."
+      },
+      "s3": {
+        "title": "Nachbearbeitung",
+        "description": "Nach dem Filmen und Fotografieren begann die Postproduktion. Zunächst bestand sie darin, einen Grobschnitt zu erstellen, der dann mit dem Kunden diskutiert wurde, um weitere Änderungen umzusetzen. Nach Abschluss von Effekten, Farbkorrektur und Sounddesign wurden weitere Revisionen iteriert. Ich habe dem Kunden immer den Stand des Projekts gezeigt und sein Feedback umgesetzt, um das Endergebnis so gut wie möglich zu gestalten. Ausserdem habe ich einen kleinen Soundtrack komponiert, der zur Stimmung des Films passt, und die Fotos, die ich am zweiten Tag aufgenommen habe, bearbeitet."
+      },
+      "s4": {
+        "title": "Fotoshooting",
+        "description": "Am zweiten Tag des Projekts für sxclout wurde ein Fotoshooting realisiert. Diese Bilder wurden dann für die Promotion der Kollektion und auf der Website verwendet."
+      }
+    },
+    "eyebrow": "Fallstudie | Mode",
+    "h1b": "Vision Kollektion",
+    "intro1": "Für ein lokales Bekleidungsunternehmen namens sxclout hatte ich die Ehre, ein Projekt bestehend aus einem Kurzfilm/Trailer und einem Fotoshooting zu realisieren.",
+    "intro2": "Das Projekt war eher budgetorientiert in Bezug auf Geld, Zeit und Ausrüstung.",
+    "intro3": "Ich habe das Projekt genutzt, um meine Fähigkeiten in der Umsetzung von Film- und Fotoprojekten sowie in der Kundenbeziehung, Planung und Logistik weiter zu verbessern.",
+    "servicesHeading": "Angebotene Dienstleistungen",
+    "finalFilm": "Endgültiger Werbespot",
+    "finalStills": "Endgültige Bilder",
+    "stillAlt": "Sxclout Vision Kollektion Bild"
+  },
+  "jublasurium": {
+    "bts": {
+      "b1": "Material und Notizen zwischen den Einsätzen sichten.",
+      "b2": "Das Kamera-Rig ist bereit für die nächste Aufnahme.",
+      "b3": "Filmen inmitten tausender Teilnehmender.",
+      "b4": "Immer bereit, den nächsten Moment festzuhalten.",
+      "b5": "Mit dem Content-Team zwischen den Drehs."
+    },
+    "day": "Tag {{n}}",
+    "recapTitle": "Recap | Tag {{n}}",
+    "eyebrow": "Fallstudie | Content-Team",
+    "h1b": "Tägliche Recaps",
+    "intro1": "Das Jublasurium war das nationale Pfingstlager 2025 von Jungwacht Blauring, das grösste Jubla-Treffen der Schweiz, das Tausende Teilnehmende aus dem ganzen Land zusammenbrachte.",
+    "intro2": "Ich war Teil des Content-Teams vor Ort und für die täglichen Instagram-Reels verantwortlich, die jeden Lagertag für alle Daheimgebliebenen zusammenfassten: drehen, schneiden und veröffentlichen, bevor der nächste Tag begann.",
+    "onSite": "Vor Ort",
+    "btsHeading": "Hinter den Kulissen"
+  },
+  "photo": {
+    "alts": {
+      "artist": "Künstlerporträt",
+      "fashion": "Chased Vision Fashion-Shooting",
+      "london": "Analoge Serie London",
+      "club": "Club-Show-Shooting",
+      "association": "Fotografie für den lokalen Verein",
+      "studio": "Kreative Aufnahmen einer Studio-Session"
+    },
+    "eyebrow": "Portfolio | Fotografie",
+    "h1a": "Momente",
+    "h1b": "festhalten.",
+    "subtitle": "In die Welt der Bilder bin ich durch Videos gekommen. Aber vor ein paar Jahren habe ich mit der Fotografie begonnen und fotografiere regelmässig für meinen lokalen Verein und/oder für Aufträge.",
+    "selectedWork": "Ausgewählte Arbeiten",
+    "projects": "Projekte",
+    "projectDescriptions": {
+      "1": "Am zweiten Tag des Projekts für sxclout wurde ein Fotoshooting realisiert. Diese Bilder wurden dann für die Promotion der Kollektion und auf der Website verwendet."
+    },
+    "close": "Schliessen",
+    "previous": "Zurück",
+    "next": "Weiter"
+  },
+  "imprint": {
+    "country": "Schweiz",
+    "email": "E-Mail"
   }
 }
